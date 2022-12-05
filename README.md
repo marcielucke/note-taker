@@ -5,7 +5,7 @@
 
     This app creates a note taking system for day to day tasks. The user is able to create, save, and delete different notes. This was created using Node.js, Express.js, Insomnia, and deployed using Heroku. 
 
- [Link to Heroku Deployment] (https://marcie-note-taker.herokuapp.com/)
+[Link to Heroku Deployment](https://marcie-note-taker.herokuapp.com/)
 
 
 ## Table of Contents (Optional)
