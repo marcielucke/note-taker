@@ -20,7 +20,7 @@
 
 To install my project you will need use the npm i package from your command line! Both node.js and express.js will be used to get the server running. To view the app itself, use the Heroku platform. 
 
-![photo example](/note-taker/public/assets/application%20photo.png)
+![Application Photo](./applicationphoto.png)
  
 
 ## License
