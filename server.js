@@ -1,4 +1,3 @@
-
 const express = require("express");
 const fs = require("fs");
 const path = require("path");
@@ -13,7 +12,9 @@ const PORT = process.env.PORT || 3001;
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
-app.use(express.static("public"));
+app.use(express.static('public'));
+
+//api routes 
 
 app.get("/api/notes", function(req, res){
     readFileAsync("./db/db.json", "utf-8").then(function(data){
